@@ -1,0 +1,55 @@
+.name {
+    text-align: center;
+    padding: 2vh;
+    font-size: 6vh;
+    font-style: italic;
+    font-weight: 100;
+    font-family: Lucida monospace;
+}
+body {
+    background-image: url(images/2242747.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.navigation {
+    padding: 3vh;
+    font-family: Geneva;
+}
+.container {
+    display: flex;
+    padding: 3vh;
+    justify-content: center;
+    font-size: large;
+}
+.cat {
+    height: 20vh;
+    width: 20vh;
+    margin: 3vw;
+}
+.cauldron {
+    height: 20vh;
+    width: 20vh;
+    margin: 3vw;
+}
+.crow {
+    height: 20vh;
+    width: 20vh;
+    margin: 3vw;
+}
+.plant {
+    height: 20vh;
+    width: 20vh;
+    margin: 3vw;
+}
+.wand {
+    height: 20vh;
+    width: 20vh;
+    margin: 3vw;
+}
+.description {
+    font-size: 5vh;
+    color: rgb(145, 25, 25);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
